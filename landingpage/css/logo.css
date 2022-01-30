@@ -1,0 +1,12 @@
+html{
+    background-color: #e385e3;
+}
+
+.logo {
+    background-position: left;
+    height: 250px;
+    display: flex;
+    align-items:center;
+    justify-content:left;
+    float: left;
+}
