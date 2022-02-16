@@ -10,3 +10,12 @@ html{
     justify-content:left;
     float: left;
 }
+
+.fa-calendar{
+    color: #E80C56;
+    float: right;
+}
+
+.fa-calendar:hover{
+    color: black;
+}
